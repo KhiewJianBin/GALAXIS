@@ -1,0 +1,20 @@
+Easy:
+Wave 0: Summon Mob 1 
+Wave 2: Summon Mob 3
+Wave 4: Summon Mob 1, 3
+Wave 5: Summon Mob 2
+Wave 6: Summon Mob 2, 3
+Wave 7: Summon Mob 1, 2
+Wave 8: Summon Mob 1, 2, 3
+
+Hard:
+Wave 0: Summon Mob 1
+Wave 2: Summon Mob 3
+Wave 3: Summon Mob 1, 3
+Wave 4: Summon Mob 4
+Wave 5: Summon Mob 2
+Wave 6: Summon Mob 2, 3
+Wave 7: Summon Mob 1, 2, 3
+Wave 8: Summon Mob 1, 2, 3, 4
+
+Mob 5 is randomly spawned once from wave 3 onwards
